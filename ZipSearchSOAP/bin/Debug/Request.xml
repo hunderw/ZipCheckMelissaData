@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Request xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TransmissionReference xmlns="urn:mdWebServiceZipSearch">Testing SOAP Request.</TransmissionReference>
+  <CustomerID xmlns="urn:mdWebServiceZipSearch">106223395</CustomerID>
+  <OptOfficialCityNameOnly xmlns="urn:mdWebServiceZipSearch">false</OptOfficialCityNameOnly>
+  <City xmlns="urn:mdWebServiceZipSearch" />
+  <State xmlns="urn:mdWebServiceZipSearch" />
+  <Zip xmlns="urn:mdWebServiceZipSearch">44202</Zip>
+  <Country xmlns="urn:mdWebServiceZipSearch" />
+</Request>

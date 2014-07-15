@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ResponseArray xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version xmlns="urn:mdWebServiceZipSearch">2.0.23</Version>
+  <TransmissionReference xmlns="urn:mdWebServiceZipSearch">Testing SOAP Request.</TransmissionReference>
+  <Results xmlns="urn:mdWebServiceZipSearch">ZS01</Results>
+  <TotalRecords xmlns="urn:mdWebServiceZipSearch">2</TotalRecords>
+  <ZipRecord xmlns="urn:mdWebServiceZipSearch">
+    <RecordID>1</RecordID>
+    <Zip>44202</Zip>
+    <ZipType> </ZipType>
+    <City>
+      <Name>Aurora</Name>
+      <Abbreviation>Aurora</Abbreviation>
+    </City>
+    <County>
+      <Name>Portage</Name>
+      <FIPS>39133</FIPS>
+    </County>
+    <State>OH</State>
+    <AreaCode>330</AreaCode>
+    <TimeZone>
+      <Name>Eastern Time</Name>
+      <Code>05</Code>
+    </TimeZone>
+    <Latitude>41.3218</Latitude>
+    <Longitude>-81.3569</Longitude>
+    <LastLineIndicator>L</LastLineIndicator>
+    <LastLineNumber>X20123</LastLineNumber>
+    <PreferredLastLineNumber>X20123</PreferredLastLineNumber>
+    <FacilityCode>P</FacilityCode>
+  </ZipRecord>
+  <ZipRecord xmlns="urn:mdWebServiceZipSearch">
+    <RecordID>2</RecordID>
+    <Zip>44202</Zip>
+    <ZipType> </ZipType>
+    <City>
+      <Name>Reminderville</Name>
+      <Abbreviation>Reminderville</Abbreviation>
+    </City>
+    <County>
+      <Name>Portage</Name>
+      <FIPS>39133</FIPS>
+    </County>
+    <State>OH</State>
+    <AreaCode>330</AreaCode>
+    <TimeZone>
+      <Name>Eastern Time</Name>
+      <Code>05</Code>
+    </TimeZone>
+    <Latitude>41.3218</Latitude>
+    <Longitude>-81.3569</Longitude>
+    <LastLineIndicator> </LastLineIndicator>
+    <LastLineNumber>X22580</LastLineNumber>
+    <PreferredLastLineNumber>X20123</PreferredLastLineNumber>
+    <FacilityCode>N</FacilityCode>
+  </ZipRecord>
+</ResponseArray>

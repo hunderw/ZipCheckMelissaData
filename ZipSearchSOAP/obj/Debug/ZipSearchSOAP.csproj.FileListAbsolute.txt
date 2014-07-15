@@ -1,0 +1,9 @@
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\bin\Debug\ZipSearchSOAP.exe.config
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\bin\Debug\ZipSearchSOAP.exe
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\bin\Debug\ZipSearchSOAP.pdb
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.csprojResolveAssemblyReference.cache
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.Form1.resources
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.Properties.Resources.resources
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.csproj.GenerateResource.Cache
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.exe
+c:\users\rovisys\documents\visual studio 2012\Projects\ZipSearchSOAP\ZipSearchSOAP\obj\Debug\ZipSearchSOAP.pdb

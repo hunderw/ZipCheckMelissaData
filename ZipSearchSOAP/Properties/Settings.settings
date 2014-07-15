@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZipSearchSOAP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="myDataSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DataSet</Value>
+    </Setting>
+    <Setting Name="DataSet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DataSet</Value>
+    </Setting>
+    <Setting Name="dgZipSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NewDataBinding" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SetDataBinding" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="zipRecordBindingSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zip Search</Value>
+    </Setting>
+    <Setting Name="txtResults" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zip Search</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
